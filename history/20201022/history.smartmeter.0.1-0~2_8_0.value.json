@@ -1,0 +1,370 @@
+[
+  {
+    "val": 30331.9,
+    "ack": 1,
+    "ts": 1603351990508,
+    "q": 0,
+    "from": "system.adapter.smartmeter.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 30332,
+    "ack": 1,
+    "ts": 1603352296038,
+    "q": 0,
+    "from": "system.adapter.smartmeter.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 30332.1,
+    "ack": 1,
+    "ts": 1603352601407,
+    "q": 0,
+    "from": "system.adapter.smartmeter.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 30332.2,
+    "ack": 1,
+    "ts": 1603352906733,
+    "q": 0,
+    "from": "system.adapter.smartmeter.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 30332.3,
+    "ack": 1,
+    "ts": 1603353212216,
+    "q": 0,
+    "from": "system.adapter.smartmeter.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 30332.5,
+    "ack": 1,
+    "ts": 1603353517596,
+    "q": 0,
+    "from": "system.adapter.smartmeter.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 30332.7,
+    "ack": 1,
+    "ts": 1603354128531,
+    "q": 0,
+    "from": "system.adapter.smartmeter.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 30332.9,
+    "ack": 1,
+    "ts": 1603354433822,
+    "q": 0,
+    "from": "system.adapter.smartmeter.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 30333,
+    "ack": 1,
+    "ts": 1603354739144,
+    "q": 0,
+    "from": "system.adapter.smartmeter.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 30333.1,
+    "ack": 1,
+    "ts": 1603355655323,
+    "q": 0,
+    "from": "system.adapter.smartmeter.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 30333.2,
+    "ack": 1,
+    "ts": 1603356266218,
+    "q": 0,
+    "from": "system.adapter.smartmeter.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 30333.3,
+    "ack": 1,
+    "ts": 1603356876924,
+    "q": 0,
+    "from": "system.adapter.smartmeter.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 30333.4,
+    "ack": 1,
+    "ts": 1603357487668,
+    "q": 0,
+    "from": "system.adapter.smartmeter.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 30333.5,
+    "ack": 1,
+    "ts": 1603357793125,
+    "q": 0,
+    "from": "system.adapter.smartmeter.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 30333.6,
+    "ack": 1,
+    "ts": 1603358098599,
+    "q": 0,
+    "from": "system.adapter.smartmeter.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 30333.7,
+    "ack": 1,
+    "ts": 1603359014601,
+    "q": 0,
+    "from": "system.adapter.smartmeter.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 30333.8,
+    "ack": 1,
+    "ts": 1603359625471,
+    "q": 0,
+    "from": "system.adapter.smartmeter.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 30333.9,
+    "ack": 1,
+    "ts": 1603360236307,
+    "q": 0,
+    "from": "system.adapter.smartmeter.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 30334,
+    "ack": 1,
+    "ts": 1603361152373,
+    "q": 0,
+    "from": "system.adapter.smartmeter.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 30334.1,
+    "ack": 1,
+    "ts": 1603361457722,
+    "q": 0,
+    "from": "system.adapter.smartmeter.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 30334.2,
+    "ack": 1,
+    "ts": 1603362373727,
+    "q": 0,
+    "from": "system.adapter.smartmeter.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 30334.3,
+    "ack": 1,
+    "ts": 1603362984492,
+    "q": 0,
+    "from": "system.adapter.smartmeter.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 30334.4,
+    "ack": 1,
+    "ts": 1603363595105,
+    "q": 0,
+    "from": "system.adapter.smartmeter.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 30334.5,
+    "ack": 1,
+    "ts": 1603363900634,
+    "q": 0,
+    "from": "system.adapter.smartmeter.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 30334.8,
+    "ack": 1,
+    "ts": 1603364206054,
+    "q": 0,
+    "from": "system.adapter.smartmeter.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 30335,
+    "ack": 1,
+    "ts": 1603364511520,
+    "q": 0,
+    "from": "system.adapter.smartmeter.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 30335.3,
+    "ack": 1,
+    "ts": 1603364817006,
+    "q": 0,
+    "from": "system.adapter.smartmeter.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 30335.4,
+    "ack": 1,
+    "ts": 1603365427800,
+    "q": 0,
+    "from": "system.adapter.smartmeter.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 30335.5,
+    "ack": 1,
+    "ts": 1603366038655,
+    "q": 0,
+    "from": "system.adapter.smartmeter.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 30335.6,
+    "ack": 1,
+    "ts": 1603366649323,
+    "q": 0,
+    "from": "system.adapter.smartmeter.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 30335.7,
+    "ack": 1,
+    "ts": 1603366954670,
+    "q": 0,
+    "from": "system.adapter.smartmeter.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 30335.8,
+    "ack": 1,
+    "ts": 1603367260207,
+    "q": 0,
+    "from": "system.adapter.smartmeter.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 30335.9,
+    "ack": 1,
+    "ts": 1603367565556,
+    "q": 0,
+    "from": "system.adapter.smartmeter.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 30336.1,
+    "ack": 1,
+    "ts": 1603367870932,
+    "q": 0,
+    "from": "system.adapter.smartmeter.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 30336.3,
+    "ack": 1,
+    "ts": 1603368176535,
+    "q": 0,
+    "from": "system.adapter.smartmeter.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 30336.4,
+    "ack": 1,
+    "ts": 1603368481924,
+    "q": 0,
+    "from": "system.adapter.smartmeter.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 30336.5,
+    "ack": 1,
+    "ts": 1603368787328,
+    "q": 0,
+    "from": "system.adapter.smartmeter.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 30336.6,
+    "ack": 1,
+    "ts": 1603369092708,
+    "q": 0,
+    "from": "system.adapter.smartmeter.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 30336.7,
+    "ack": 1,
+    "ts": 1603369703498,
+    "q": 0,
+    "from": "system.adapter.smartmeter.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 30336.8,
+    "ack": 1,
+    "ts": 1603371230507,
+    "q": 0,
+    "from": "system.adapter.smartmeter.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 30337,
+    "ack": 1,
+    "ts": 1603371841395,
+    "q": 0,
+    "from": "system.adapter.smartmeter.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 30337.2,
+    "ack": 1,
+    "ts": 1603372146767,
+    "q": 0,
+    "from": "system.adapter.smartmeter.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 30337.3,
+    "ack": 1,
+    "ts": 1603372452146,
+    "q": 0,
+    "from": "system.adapter.smartmeter.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 30337.4,
+    "ack": 1,
+    "ts": 1603374895171,
+    "q": 0,
+    "from": "system.adapter.smartmeter.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 30337.5,
+    "ack": 1,
+    "ts": 1603375200461,
+    "q": 0,
+    "from": "system.adapter.smartmeter.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 30337.6,
+    "ack": 1,
+    "ts": 1603377643109,
+    "q": 0,
+    "from": "system.adapter.smartmeter.0",
+    "user": "system.user.admin"
+  }
+]

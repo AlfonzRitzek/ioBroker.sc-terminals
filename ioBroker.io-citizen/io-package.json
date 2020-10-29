@@ -1,0 +1,80 @@
+{
+	"common": {
+		"name": "io-citizen",
+		"version": "0.0.1",
+		"news": {
+			"0.0.1": {
+				"en": "initial release",
+				"de": "Erstveröffentlichung",
+				"ru": "Начальная версия",
+				"pt": "lançamento inicial",
+				"nl": "Eerste uitgave",
+				"fr": "Première version",
+				"it": "Versione iniziale",
+				"es": "Versión inicial",
+				"pl": "Pierwsze wydanie",
+				"zh-cn": "首次出版"
+			}
+		},
+		"title": "ioCitizen",
+		"titleLang": {
+			"en": "ioCitizen",
+			"de": "ioCitizen",
+			"ru": "ioCitizen",
+			"pt": "ioCitizen",
+			"nl": "ioCitizen",
+			"fr": "ioCitoyen",
+			"it": "ioCitizen",
+			"es": "ioCitizen",
+			"pl": "ioCitizen",
+			"zh-cn": "公民"
+		},
+		"desc": {
+			"en": "Star Citizen Themed Terminal Visualisation",
+			"de": "Terminal-Visualisierung unter dem Motto \"Star Citizen\"",
+			"ru": "Тематическая визуализация терминала Star Citizen",
+			"pt": "Visualização do terminal com tema Star Citizen",
+			"nl": "Star Citizen Themed Terminal Visualisatie",
+			"fr": "Visualisation du terminal sur le thème de Star Citizen",
+			"it": "Visualizzazione terminale a tema Star Citizen",
+			"es": "Visualización de terminal temática de Star Citizen",
+			"pl": "Wizualizacja terminala o tematyce Star Citizen",
+			"zh-cn": "星际公民主题终端可视化"
+		},
+		"authors": [
+			"AlfonzRitzek <Alfonz_Ritzek@action.ms>"
+		],
+		"keywords": [
+			"StarCitizen",
+			"SC",
+			"SC42",
+			"vis",
+			"theme"
+		],
+		"license": "GPL-3.0",
+		"platform": "Javascript/Node.js",
+		"main": "main.js",
+		"icon": "io-citizen.png",
+		"enabled": true,
+		"extIcon": "https://raw.githubusercontent.com/AlfonzRitzek/ioBroker.io-citizen/master/admin/io-citizen.png",
+		"readme": "https://github.com/AlfonzRitzek/ioBroker.io-citizen/blob/master/README.md",
+		"loglevel": "info",
+		"mode": "daemon",
+		"type": "visualization",
+		"compact": true,
+		"connectionType": "cloud",
+		"dataSource": "poll",
+		"materialize": true,
+		"dependencies": [
+			{
+				"js-controller": ">=2.0.0"
+			}
+		]
+	},
+	"native": {
+		"option1": true,
+		"option2": "42"
+	},
+	"objects": [],
+	"instanceObjects": []
+}

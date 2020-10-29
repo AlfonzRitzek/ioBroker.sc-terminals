@@ -1,0 +1,64 @@
+[
+  {
+    "val": 123,
+    "ack": 0,
+    "ts": 1603900389355,
+    "q": 0,
+    "from": "system.adapter.history.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": null,
+    "ts": 1603900389356,
+    "lc": 1603900389356,
+    "q": 64,
+    "from": "system.adapter.history.0"
+  },
+  {
+    "val": null,
+    "ts": 1603900642792,
+    "ack": 1,
+    "q": 64,
+    "from": "system.adapter.history.0"
+  },
+  {
+    "val": 123,
+    "ack": 0,
+    "ts": 1603900642792,
+    "q": 0,
+    "from": "system.adapter.history.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 10527,
+    "ack": 1,
+    "ts": 1603900803567,
+    "q": 0,
+    "from": "system.adapter.sbfspot.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 123,
+    "ack": 0,
+    "ts": 1603900867021,
+    "q": 0,
+    "from": "system.adapter.web.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 10527,
+    "ack": 1,
+    "ts": 1603901703441,
+    "q": 0,
+    "from": "system.adapter.sbfspot.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 10527,
+    "ack": 1,
+    "ts": 1603925103286,
+    "q": 0,
+    "from": "system.adapter.sbfspot.0",
+    "user": "system.user.admin"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "val": 0,
+    "ack": true,
+    "ts": 1603876251539,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.3",
+    "user": "system.user.admin",
+    "lc": 1603704595477
+  },
+  {
+    "val": 0,
+    "ack": 1,
+    "ts": 1603900389355,
+    "q": 0,
+    "from": "system.adapter.history.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": null,
+    "ts": 1603900389356,
+    "lc": 1603900389356,
+    "q": 64,
+    "from": "system.adapter.history.0"
+  },
+  {
+    "val": null,
+    "ts": 1603900642792,
+    "ack": 1,
+    "q": 64,
+    "from": "system.adapter.history.0"
+  },
+  {
+    "val": 0,
+    "ack": 1,
+    "ts": 1603900642792,
+    "q": 0,
+    "from": "system.adapter.history.0",
+    "user": "system.user.admin"
+  }
+]

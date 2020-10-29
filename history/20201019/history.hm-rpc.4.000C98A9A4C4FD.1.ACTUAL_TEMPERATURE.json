@@ -1,0 +1,50 @@
+[
+  {
+    "val": 21.4,
+    "ack": 1,
+    "ts": 1603137602116,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 21.7,
+    "ack": 1,
+    "ts": 1603140941074,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 22,
+    "ack": 1,
+    "ts": 1603141684740,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 22.3,
+    "ack": 1,
+    "ts": 1603142289206,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 22.1,
+    "ack": 1,
+    "ts": 1603143242932,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 22.1,
+    "ack": 1,
+    "ts": 1603143427257,
+    "q": 0,
+    "from": "system.adapter.hm-rega.1",
+    "user": "system.user.admin"
+  }
+]

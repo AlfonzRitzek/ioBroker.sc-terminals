@@ -1,0 +1,80 @@
+[
+  {
+    "val": 0,
+    "ack": true,
+    "ts": 1603790422759,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.3",
+    "user": "system.user.admin",
+    "lc": 1603704595477
+  },
+  {
+    "val": 0,
+    "ack": 1,
+    "ts": 1603818749190,
+    "q": 0,
+    "from": "system.adapter.history.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": null,
+    "ts": 1603818749191,
+    "lc": 1603818749191,
+    "q": 64,
+    "from": "system.adapter.history.0"
+  },
+  {
+    "val": null,
+    "ts": 1603818821139,
+    "ack": 1,
+    "q": 64,
+    "from": "system.adapter.history.0"
+  },
+  {
+    "val": 0,
+    "ack": 1,
+    "ts": 1603818821139,
+    "q": 0,
+    "from": "system.adapter.history.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 0,
+    "ack": true,
+    "ts": 1603818822147,
+    "q": 0,
+    "from": "system.adapter.hm-rega.1",
+    "user": "system.user.admin",
+    "lc": 1603704595477
+  },
+  {
+    "val": 0,
+    "ack": 1,
+    "ts": 1603818957293,
+    "q": 0,
+    "from": "system.adapter.history.0",
+    "user": "system.user.admin"
+  },
+  {
+    "val": null,
+    "ts": 1603818957294,
+    "lc": 1603818957294,
+    "q": 64,
+    "from": "system.adapter.history.0"
+  },
+  {
+    "val": null,
+    "ts": 1603819053527,
+    "ack": 1,
+    "q": 64,
+    "from": "system.adapter.history.0"
+  },
+  {
+    "val": 0,
+    "ack": 1,
+    "ts": 1603819053527,
+    "q": 0,
+    "from": "system.adapter.history.0",
+    "user": "system.user.admin"
+  }
+]

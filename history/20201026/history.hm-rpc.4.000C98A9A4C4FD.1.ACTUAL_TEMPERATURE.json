@@ -1,0 +1,410 @@
+[
+  {
+    "val": 21.1,
+    "ack": 1,
+    "ts": 1603668988636,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 20.9,
+    "ack": 1,
+    "ts": 1603675392314,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 20.8,
+    "ack": 1,
+    "ts": 1603680585767,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 20.9,
+    "ack": 1,
+    "ts": 1603686910394,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 21,
+    "ack": 1,
+    "ts": 1603688412752,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 21.1,
+    "ack": 1,
+    "ts": 1603688780449,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 21.1,
+    "ack": 1,
+    "ts": 1603689930419,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 21,
+    "ack": 1,
+    "ts": 1603690233710,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 20.8,
+    "ack": 1,
+    "ts": 1603690830301,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 20.8,
+    "ack": 1,
+    "ts": 1603693910164,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 20.7,
+    "ack": 1,
+    "ts": 1603694429903,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 20.7,
+    "ack": 1,
+    "ts": 1603694846266,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 20.6,
+    "ack": 1,
+    "ts": 1603695329825,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 20.6,
+    "ack": 1,
+    "ts": 1603696229673,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 20.7,
+    "ack": 1,
+    "ts": 1603696650139,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 20.6,
+    "ack": 1,
+    "ts": 1603697129582,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 20.6,
+    "ack": 1,
+    "ts": 1603698029423,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 20.7,
+    "ack": 1,
+    "ts": 1603698457915,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 21.1,
+    "ack": 1,
+    "ts": 1603698802927,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 21.2,
+    "ack": 1,
+    "ts": 1603698929504,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 21.4,
+    "ack": 1,
+    "ts": 1603699106178,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 21.4,
+    "ack": 1,
+    "ts": 1603699121145,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 21.5,
+    "ack": 1,
+    "ts": 1603699204307,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 21.7,
+    "ack": 1,
+    "ts": 1603699444957,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 22.1,
+    "ack": 1,
+    "ts": 1603699886997,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 22.4,
+    "ack": 1,
+    "ts": 1603700195020,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 22.7,
+    "ack": 1,
+    "ts": 1603700509078,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 22.4,
+    "ack": 1,
+    "ts": 1603701570730,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 22.1,
+    "ack": 1,
+    "ts": 1603702334815,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 21.8,
+    "ack": 1,
+    "ts": 1603703400706,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 21.5,
+    "ack": 1,
+    "ts": 1603705963481,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 21.4,
+    "ack": 1,
+    "ts": 1603712370595,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 21.4,
+    "ack": 1,
+    "ts": 1603730585497,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 21.5,
+    "ack": 1,
+    "ts": 1603731329386,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 21.5,
+    "ack": 1,
+    "ts": 1603733237699,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 21.4,
+    "ack": 1,
+    "ts": 1603734029353,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 21.4,
+    "ack": 1,
+    "ts": 1603735969663,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 21.5,
+    "ack": 1,
+    "ts": 1603736730139,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 21.5,
+    "ack": 1,
+    "ts": 1603736829519,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 21.4,
+    "ack": 1,
+    "ts": 1603737629800,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 21.4,
+    "ack": 1,
+    "ts": 1603739557400,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 21.5,
+    "ack": 1,
+    "ts": 1603740329490,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 21.5,
+    "ack": 1,
+    "ts": 1603740418330,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 21.4,
+    "ack": 1,
+    "ts": 1603743930016,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 21.5,
+    "ack": 1,
+    "ts": 1603743961809,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 21.4,
+    "ack": 1,
+    "ts": 1603744327045,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 21.4,
+    "ack": 1,
+    "ts": 1603744937836,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 21.5,
+    "ack": 1,
+    "ts": 1603746011693,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 21.8,
+    "ack": 1,
+    "ts": 1603749469100,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 22.1,
+    "ack": 1,
+    "ts": 1603750084605,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  },
+  {
+    "val": 21.8,
+    "ack": 1,
+    "ts": 1603752814828,
+    "q": 0,
+    "from": "system.adapter.hm-rpc.4",
+    "user": "system.user.admin"
+  }
+]
