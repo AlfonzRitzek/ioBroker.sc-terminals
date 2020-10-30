@@ -3,7 +3,7 @@
         "name": "vis-sc-terminals",
         "version": "0.0.1",
         "news": {            
-            "1.0.1": {
+            "0.0.1": {
                 "en": "first attempt",
                 "de": "erster versuch"
             }
@@ -32,7 +32,6 @@
             "Alfonz Ritzek "
         ],
         "localLink": "%web_protocol%://%ip%:%web_port%/vis/edit.html",
-        "license": "MIT",
         "dependencies": [
             "vis"
         ],
