@@ -18,7 +18,7 @@
         "icon": "sc-terminals.jpg",
         "enabled": true,
         "mode": "once",
-        "extIcon": "https://github.com/AlfonzRitzek/SC-Terminals/blob/main/img/Basic_Design.jpg",
+        "extIcon": "https://github.com/AlfonzRitzek/SC-Terminals/blob/master/img/Basic_Design.jpg",
         "keywords": [
             "terminals",
             "star citizen",
@@ -27,7 +27,7 @@
             "graphical",
             "scada"
         ],
-        "readme": "https://github.com/AlfonzRitzek/SC-Terminals/blob/main/README.md",
+        "readme": "https://github.com/AlfonzRitzek/SC-Terminals/blob/master/README.md",
         "authors": [
             "Alfonz Ritzek "
         ],
