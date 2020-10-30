@@ -38,7 +38,7 @@
   "bugs": {
     "url": "https://github.com/AlfonzRitzek/SC-Terminals/issues"
   },
-  "main": "widgets/sc-terminals.html",
+  "master: "widgets/sc-terminals.html",
   "scripts": {
     "test": "node node_modules/mocha/bin/mocha --exit"
   },
