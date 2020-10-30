@@ -1,0 +1,53 @@
+{
+    "common": {
+        "name": "vis-sc-terminals",
+        "version": "0.0.1",
+        "news": {            
+            "1.0.1": {
+                "en": "first attempt",
+                "de": "erster versuch"
+            }
+        },
+        "title": "ioBroker Visualisation - Star Citizen Terminals style Widgets",
+        "desc": {
+            "en": "Star Citizen Terminals Widgets for ioBroker.vis",
+            "de": "Star Citizen Terminals Widgets für ioBroker.vis"
+        },
+        "platform": "Javascript/Node.js",
+        "loglevel": "info",
+        "icon": "sc-terminals.jpg",
+        "enabled": true,
+        "mode": "once",
+        "extIcon": "https://github.com/AlfonzRitzek/SC-Terminals/blob/main/img/Basic_Design.jpg",
+        "keywords": [
+            "terminals",
+            "star citizen",
+            "vis",
+            "GUI",
+            "graphical",
+            "scada"
+        ],
+        "readme": "https://github.com/AlfonzRitzek/SC-Terminals/blob/main/README.md",
+        "authors": [
+            "Alfonz Ritzek "
+        ],
+        "localLink": "%web_protocol%://%ip%:%web_port%/vis/edit.html",
+        "license": "MIT",
+        "dependencies": [
+            "vis"
+        ],
+        "onlyWWW": true,
+        "singleton": true,
+        "type": "visualization-widgets",
+        "restartAdapters": [
+            "vis"
+        ],
+        "noConfig": true
+    },
+    "native": {
+        "dependencies": [
+            "basic"
+        ]
+    },
+    "instanceObjects": []
+}

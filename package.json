@@ -1,0 +1,55 @@
+{
+  "name": "iobroker.vis-lcars",
+  "description": "lcars Widgets for ioBroker.vis",
+  "version": "1.0.4",
+  "author": {
+    "name": "hobbyquaker",
+    "email": "35312048+AlfonzRitzek@users.noreply.github.com"
+  },
+  "contributors": [
+    "Alfonz Ritzek <35312048+AlfonzRitzek@users.noreply.github.com>"
+  ],
+  "homepage": "https://github.com/AlfonzRitzek/SC-Terminals",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlfonzRitzek/SC-Terminals"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": ""
+    }
+  ],
+  "keywords": [
+    "ioBroker",
+    "GUI",
+    "DashUI",
+    "web interface",
+    "home automation",
+    "SCADA"
+  ],
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-replace": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-jscs": "^3.0.1",
+    "grunt-http": "^2.2.0",
+    "grunt-contrib-clean": "^1.1.0",
+    "grunt-contrib-compress": "^1.4.3",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-exec": "^3.0.0",
+    "mocha": "^4.1.0",
+    "chai": "^4.1.2"
+  },
+  "bugs": {
+    "url": "https://github.com/AlfonzRitzek/SC-Terminals/issues"
+  },
+  "main": "widgets/lcars.html",
+  "scripts": {
+    "test": "node node_modules/mocha/bin/mocha --exit"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@iobroker/adapter-core": "^1.0.3"
+  }
+}
