@@ -1,9 +1,9 @@
 {
-  "name": "iobroker.vis-lcars",
+  "name": "sc-terminals",
   "description": "lcars Widgets for ioBroker.vis",
   "version": "1.0.4",
   "author": {
-    "name": "hobbyquaker",
+    "name": "Alfonz Ritzek",
     "email": "35312048+AlfonzRitzek@users.noreply.github.com"
   },
   "contributors": [
@@ -14,12 +14,6 @@
     "type": "git",
     "url": "https://github.com/AlfonzRitzek/SC-Terminals"
   },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": ""
-    }
-  ],
   "keywords": [
     "ioBroker",
     "GUI",
@@ -44,7 +38,7 @@
   "bugs": {
     "url": "https://github.com/AlfonzRitzek/SC-Terminals/issues"
   },
-  "main": "widgets/lcars.html",
+  "main": "widgets/sc-terminals.html",
   "scripts": {
     "test": "node node_modules/mocha/bin/mocha --exit"
   },
