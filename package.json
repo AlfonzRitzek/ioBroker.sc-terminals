@@ -1,0 +1,36 @@
+{
+  "name": "iobroker.sc-terminals",
+  "version": "0.0.1",
+  "description": "Star Citizen themed Vis Pack",
+  "author": {
+    "name": "AlfonzRitzek",
+    "email": "35312048+AlfonzRitzek@users.noreply.github.com"
+  },
+  "homepage": "https://github.com/AlfonzRitzek/ioBroker.sc-terminals",
+  "license": "MIT",
+  "keywords": [
+    "starcitizen",
+    "vis",
+    "ui"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlfonzRitzek/ioBroker.sc-terminals"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@iobroker/testing": "^2.3.0",
+    "@types/gulp": "^4.0.7",
+    "axios": "^0.21.0",
+    "gulp": "^4.0.2"
+  },
+  "main": "widgets/sc-terminals.html",
+  "scripts": {
+    "test:package": "mocha test/package --exit",
+    "test": "npm run test:package"
+  },
+  "bugs": {
+    "url": "https://github.com/AlfonzRitzek/ioBroker.sc-terminals/issues"
+  },
+  "readmeFilename": "README.md"
+}

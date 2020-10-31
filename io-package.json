@@ -1,0 +1,79 @@
+{
+    "common": {
+        "name": "sc-terminals",
+        "version": "0.0.1",
+        "news": {
+            "0.0.1": {
+                "en": "initial release",
+                "de": "Erstveröffentlichung",
+                "ru": "Начальная версия",
+                "pt": "lançamento inicial",
+                "nl": "Eerste uitgave",
+                "fr": "Première version",
+                "it": "Versione iniziale",
+                "es": "Versión inicial",
+                "pl": "Pierwsze wydanie",
+                "zh-cn": "首次出版"
+            }
+        },
+        "title": "Star Citizn Terminlas VIS Pack",
+        "titleLang": {
+            "en": "Star Citizn Terminlas VIS Pack",
+            "de": "Star Citizn Terminlas VIS Pack",
+            "ru": "Star Citizn Terminlas VIS Pack",
+            "pt": "Star Citizn Terminlas VIS Pack",
+            "nl": "Star Citizn Terminlas VIS Pack",
+            "fr": "Star Citizn Terminlas VIS Pack",
+            "it": "Star Citizn Terminlas VIS Pack",
+            "es": "Star Citizn Terminlas VIS Pack",
+            "pl": "Star Citizn Terminlas VIS Pack",
+            "zh-cn": "Star Citizn Terminlas VIS Pack"
+        },
+        "desc": {
+            "en": "Star Citizen themed Vis Pack",
+            "de": "Star Citizen themed Vis Pack",
+            "ru": "Star Citizen themed Vis Pack",
+            "pt": "Star Citizen themed Vis Pack",
+            "nl": "Star Citizen themed Vis Pack",
+            "fr": "Star Citizen themed Vis Pack",
+            "it": "Star Citizen themed Vis Pack",
+            "es": "Star Citizen themed Vis Pack",
+            "pl": "Star Citizen themed Vis Pack",
+            "zh-cn": "Star Citizen themed Vis Pack"
+        },
+        "authors": [
+            "AlfonzRitzek <35312048+AlfonzRitzek@users.noreply.github.com>"
+        ],
+        "keywords": [
+            "starcitizen",
+            "vis",
+            "ui"
+        ],
+        "license": "MIT",
+        "platform": "Javascript/Node.js",
+        "main": "main.js",
+        "icon": "sc-terminals.png",
+        "enabled": true,
+        "extIcon": "https://raw.githubusercontent.com/AlfonzRitzek/ioBroker.sc-terminals/master/admin/sc-terminals.png",
+        "readme": "https://github.com/AlfonzRitzek/ioBroker.sc-terminals/blob/master/README.md",
+        "loglevel": "info",
+        "restartAdapters": [
+            "vis"
+        ],
+        "localLink": "%web_protocol%://%ip%:%web_port%/vis/edit.html",
+        "onlyWWW": true,
+        "noConfig": true,
+        "singleton": true,
+        "type": "visualization-icons",
+        "mode": "once",
+        "dependencies": [
+            "vis"
+        ]
+    },
+    "native": {
+        "option1": true,
+        "option2": "42"
+    },
+    "objects": [],
+    "instanceObjects": []
+}

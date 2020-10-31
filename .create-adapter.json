@@ -1,0 +1,25 @@
+{
+    "cli": true,
+    "adapterName": "sc-terminals",
+    "title": "Star Citizn Terminlas VIS Pack",
+    "description": "Star Citizen themed Vis Pack",
+    "keywords": [
+        "starcitizen",
+        "vis",
+        "ui"
+    ],
+    "expert": "yes",
+    "features": [
+        "vis"
+    ],
+    "type": "visualization-icons",
+    "authorName": "AlfonzRitzek",
+    "authorGithub": "AlfonzRitzek",
+    "authorEmail": "35312048+AlfonzRitzek@users.noreply.github.com",
+    "gitRemoteProtocol": "HTTPS",
+    "gitCommit": "no",
+    "license": "MIT License",
+    "ci": "gh-actions",
+    "dependabot": "yes",
+    "creatorVersion": "1.29.1"
+}
