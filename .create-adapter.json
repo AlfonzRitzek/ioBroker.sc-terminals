@@ -1,8 +1,8 @@
 {
     "cli": true,
     "adapterName": "sc-terminals",
-    "title": "Star Citizn Terminlas VIS Pack",
-    "description": "Star Citizen themed Vis Pack",
+    "title": "Star Citizen Terminals VIS Pack",
+    "description": "Star Citizen Themed Vis Pack",
     "keywords": [
         "starcitizen",
         "vis",
@@ -12,7 +12,7 @@
     "features": [
         "vis"
     ],
-    "type": "visualization-icons",
+    "type": "visualization-widgets",
     "authorName": "AlfonzRitzek",
     "authorGithub": "AlfonzRitzek",
     "authorEmail": "35312048+AlfonzRitzek@users.noreply.github.com",

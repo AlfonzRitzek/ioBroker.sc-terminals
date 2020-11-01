@@ -99,6 +99,28 @@
     You can do "if" conditions and "for" cycles.
 
 -->
+
+<script id="tplSc-terminalsFrame"
+        type="text/ejs"
+        class="vis-tpl"
+        data-vis-prev='<div id="prev_tplSc-terminalsShowInstance" style="position: relative; text-align: initial;padding: 4px "><div class="vis-widget_prev " style="width: 280px; height: 159px;" > <div class="sc-terminals-class vis-widget-prev-body " style="padding:2px"> OID: hm-rpc.0.EEQ0006629.1.STATE<br> OID value: true<br> Color: <span style="color: rgb(128, 0, 0);">#800000</span><br> htmlText: <textarea readonly="" style="width:100%">asda</textarea></div>'
+        data-vis-attrs="oid/id;myColor/color;htmlText/text;"
+        data-vis-attrs0="group.extraSc-terminals;extraAttr"
+        data-vis-set="sc-terminals"
+        data-vis-type="frame"
+        data-vis-name="Terminal Frame">
+    <div class="vis-widget <%== this.data.attr('class') %>" style="width:230px; height:210px;" id="<%= this.data.attr('wid') %>" >
+        <div class="sc-terminals-class vis-widget-body <%== this.data.attr('class') %>" style="padding:2px" >
+            OID: <%= this.data.attr('oid') %><br>
+            OID value: <%== vis.states[this.data.attr('oid') + '.val'] %><br>
+            Color: <span style="color: <%= this.data.attr('myColor') %>"><%= this.data.attr('myColor') %></span><br>
+            extraAttr: <%== this.data.attr('extraAttr') %><br>
+            Browser instance: <%= vis.instance %><br>
+            htmlText: <textarea readonly style="width: calc(100% - 10px)"><%== this.data.attr('htmlText') %></textarea><br>
+        </div>
+    </div>
+</script>
+
 <script id="tplSc-terminalsShowInstance"
         type="text/ejs"
         class="vis-tpl"

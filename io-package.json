@@ -16,18 +16,18 @@
                 "zh-cn": "首次出版"
             }
         },
-        "title": "Star Citizn Terminlas VIS Pack",
+        "title": "Star Citizen Terminals VIS Pack",
         "titleLang": {
-            "en": "Star Citizn Terminlas VIS Pack",
-            "de": "Star Citizn Terminlas VIS Pack",
-            "ru": "Star Citizn Terminlas VIS Pack",
-            "pt": "Star Citizn Terminlas VIS Pack",
-            "nl": "Star Citizn Terminlas VIS Pack",
-            "fr": "Star Citizn Terminlas VIS Pack",
-            "it": "Star Citizn Terminlas VIS Pack",
-            "es": "Star Citizn Terminlas VIS Pack",
-            "pl": "Star Citizn Terminlas VIS Pack",
-            "zh-cn": "Star Citizn Terminlas VIS Pack"
+            "en": "Star Citizen Terminals VIS Pack",
+            "de": "Star Citizen Terminals VIS Pack",
+            "ru": "Star Citizen Terminals VIS Pack",
+            "pt": "Star Citizen Terminals VIS Pack",
+            "nl": "Star Citizen Terminals VIS Pack",
+            "fr": "Star Citizen Terminals VIS Pack",
+            "it": "Star Citizen Terminals VIS Pack",
+            "es": "Star Citizen Terminals VIS Pack",
+            "pl": "Star Citizen Terminals VIS Pack",
+            "zh-cn": "Star Citizen Terminals VIS Pack"
         },
         "desc": {
             "en": "Star Citizen themed Vis Pack",
@@ -64,7 +64,7 @@
         "onlyWWW": true,
         "noConfig": true,
         "singleton": true,
-        "type": "visualization-icons",
+        "type": "visualization-widgets,
         "mode": "once",
         "dependencies": [
             "vis"
