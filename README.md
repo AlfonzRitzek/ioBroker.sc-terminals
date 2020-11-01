@@ -1,4 +1,4 @@
-![Logo](admin/sc-terminals.png)
+![Logo](img/sc-terminals.jpg)
 # ioBroker.sc-terminals
 
 [![NPM version](http://img.shields.io/npm/v/iobroker.sc-terminals.svg)](https://www.npmjs.com/package/iobroker.sc-terminals)
