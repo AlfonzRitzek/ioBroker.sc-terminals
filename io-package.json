@@ -58,7 +58,7 @@
         "main": "main.js",
         "icon": "sc-terminals.png",
         "enabled": true,
-        "extIcon": "https://raw.githubusercontent.com/AlfonzRitzek/ioBroker.sc-terminals/master/admin/sc-terminals.jpg",
+        "extIcon": "https://raw.githubusercontent.com/AlfonzRitzek/ioBroker.sc-terminals/master/admin/sc-terminals.png",
         "readme": "https://github.com/AlfonzRitzek/ioBroker.sc-terminals/blob/master/README.md",
         "loglevel": "info",
         "restartAdapters": [
