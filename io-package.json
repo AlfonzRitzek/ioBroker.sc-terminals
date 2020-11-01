@@ -1,8 +1,12 @@
 {
     "common": {
         "name": "sc-terminals",
-        "version": "0.0.1",
-        "news": {
+        "version": "0.0.2",
+        "news": {            
+            "0.0.2": {
+                "en": "first update",
+                "de": "erstes update",
+            },
             "0.0.1": {
                 "en": "initial release",
                 "de": "Erstveröffentlichung",
