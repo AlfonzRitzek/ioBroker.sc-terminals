@@ -10,7 +10,7 @@
 
 [![NPM](https://nodei.co/npm/iobroker.sc-terminals.png?downloads=true)](https://nodei.co/npm/iobroker.sc-terminals/)
 
-**Tests:** ![Test and Release](https://github.com/AlfonzRitzek/ioBroker.sc-terminals/workflows/Test%20and%20Release/badge.svg)
+**Tests:** ![Test and Release](https://github.com/AlfonzRitzek/ioBroker.sc-terminals/img/sc-terminals.jpg)
 
 ## sc-terminals adapter for ioBroker
 
